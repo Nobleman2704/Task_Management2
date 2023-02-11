@@ -10,7 +10,5 @@ public class Main {
 
     public static void main(String[] args) {
         MainUi.main();
-
-        System.out.println("Hello there");
     }
 }
