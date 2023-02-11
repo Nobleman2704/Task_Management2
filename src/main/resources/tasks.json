@@ -1,0 +1,35 @@
+[
+  {
+    "id": "92578bad-2243-41e0-9849-ba6f464a4964",
+    "createdDate": "09-02-2023 T 21:30:10",
+    "updatedDate": "10-02-2023 T 14:35:53",
+    "name": "Project optimizing",
+    "description": "\"Project management\" should be optimized",
+    "assignedUserId": "8ffab617-a829-4d59-ae6d-b26293abdcee",
+    "taskCreatorId": "3d15c2a1-48b8-4419-872d-58cd178eb7aa",
+    "type": "BE_TASK",
+    "status": "DONE"
+  },
+  {
+    "id": "8013ec56-ac5b-4a60-bab5-7c373f4d5192",
+    "createdDate": "09-02-2023 T 22:25:57",
+    "updatedDate": "10-02-2023 T 15:01:28",
+    "name": "Blah blah",
+    "description": "Blah blah blah blah blah blah blah",
+    "assignedUserId": "d9828acf-eb2e-4d18-b208-06153ce37ff2",
+    "taskCreatorId": "db95107c-9321-4cd1-b04a-241a1d1aeaf6",
+    "type": "SM_TASK",
+    "status": "DONE"
+  },
+  {
+    "id": "7ac25d50-20c5-42ab-b49b-564f44731eac",
+    "createdDate": "10-02-2023 T 15:23:53",
+    "updatedDate": "10-02-2023 T 15:33:16",
+    "name": "Best design",
+    "description": "New Design should be created for \"Project Management\" till december 31",
+    "assignedUserId": "6a472bb7-ec4f-451a-bca1-70a7100ab23b",
+    "taskCreatorId": "db95107c-9321-4cd1-b04a-241a1d1aeaf6",
+    "type": "FE_TASK",
+    "status": "DONE"
+  }
+]
