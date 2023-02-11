@@ -1,55 +1,62 @@
-[ {
-  "id" : "db95107c-9321-4cd1-b04a-241a1d1aeaf6",
-  "createdDate" : "07-02-2023 T 23:03:10",
-  "updatedDate" : "07-02-2023 T 23:03:10",
-  "name" : "Asadbek",
-  "lastname" : "Turayev",
-  "email" : "asadbek@gmail.com",
-  "password" : "Asadbek@1999",
-  "role" : "MANAGER"
-}, {
-  "id" : "dbec65b2-0e03-4c7a-becf-6a7f7f878ac7",
-  "createdDate" : "09-02-2023 T 10:21:32",
-  "updatedDate" : "09-02-2023 T 11:57:34",
-  "name" : "Steve",
-  "lastname" : "Jobs",
-  "email" : "steve1999@outlook.com",
-  "password" : "Steve$2010",
-  "role" : "BUSINESS_ANALYST"
-}, {
-  "id" : "3d15c2a1-48b8-4419-872d-58cd178eb7aa",
-  "createdDate" : "09-02-2023 T 21:19:02",
-  "updatedDate" : "09-02-2023 T 21:25:39",
-  "name" : "Chris",
-  "lastname" : "Evans",
-  "email" : "chris1941@gmail.com",
-  "password" : "Cap*2019",
-  "role" : "BE_LEAD"
-}, {
-  "id" : "8ffab617-a829-4d59-ae6d-b26293abdcee",
-  "createdDate" : "09-02-2023 T 21:34:47",
-  "updatedDate" : "09-02-2023 T 21:39:49",
-  "name" : "Tom",
-  "lastname" : "Cruise",
-  "email" : "maverick@yahoo.org",
-  "password" : "tom19@68",
-  "role" : "BACKEND_DEV"
-}, {
-  "id" : "d9828acf-eb2e-4d18-b208-06153ce37ff2",
-  "createdDate" : "10-02-2023 T 14:56:30",
-  "updatedDate" : "10-02-2023 T 14:57:44",
-  "name" : "Nobleman",
-  "lastname" : "Freeman",
-  "email" : "nobleman1999@gmail.com",
-  "password" : "Nobleman$2023$",
-  "role" : "SCRUM_MASTER"
-}, {
-  "id" : "6a472bb7-ec4f-451a-bca1-70a7100ab23b",
-  "createdDate" : "10-02-2023 T 15:30:11",
-  "updatedDate" : "10-02-2023 T 15:30:40",
-  "name" : "Bruce",
-  "lastname" : "Lee",
-  "email" : "dragon1975@yahoo.org",
-  "password" : "Bruce&99",
-  "role" : "FE_LEAD"
-} ]
+[
+  {
+    "id": "db95107c-9321-4cd1-b04a-241a1d1aeaf6",
+    "createdDate": "07-02-2023 T 23:03:10",
+    "updatedDate": "07-02-2023 T 23:03:10",
+    "name": "Asadbek",
+    "lastname": "Turayev",
+    "email": "asadbek@gmail.com",
+    "password": "Asadbek@1999",
+    "role": "MANAGER"
+  },
+  {
+    "id": "dbec65b2-0e03-4c7a-becf-6a7f7f878ac7",
+    "createdDate": "09-02-2023 T 10:21:32",
+    "updatedDate": "09-02-2023 T 11:57:34",
+    "name": "Steve",
+    "lastname": "Jobs",
+    "email": "steve1999@outlook.com",
+    "password": "Steve$2010",
+    "role": "BUSINESS_ANALYST"
+  },
+  {
+    "id": "3d15c2a1-48b8-4419-872d-58cd178eb7aa",
+    "createdDate": "09-02-2023 T 21:19:02",
+    "updatedDate": "09-02-2023 T 21:25:39",
+    "name": "Chris",
+    "lastname": "Evans",
+    "email": "chris1941@gmail.com",
+    "password": "Cap*2019",
+    "role": "BE_LEAD"
+  },
+  {
+    "id": "8ffab617-a829-4d59-ae6d-b26293abdcee",
+    "createdDate": "09-02-2023 T 21:34:47",
+    "updatedDate": "09-02-2023 T 21:39:49",
+    "name": "Tom",
+    "lastname": "Cruise",
+    "email": "maverick@yahoo.org",
+    "password": "tom19@68",
+    "role": "BACKEND_DEV"
+  },
+  {
+    "id": "d9828acf-eb2e-4d18-b208-06153ce37ff2",
+    "createdDate": "10-02-2023 T 14:56:30",
+    "updatedDate": "10-02-2023 T 14:57:44",
+    "name": "Nobleman",
+    "lastname": "Freeman",
+    "email": "nobleman1999@gmail.com",
+    "password": "Nobleman$2023$",
+    "role": "SCRUM_MASTER"
+  },
+  {
+    "id": "6a472bb7-ec4f-451a-bca1-70a7100ab23b",
+    "createdDate": "10-02-2023 T 15:30:11",
+    "updatedDate": "10-02-2023 T 15:30:40",
+    "name": "Bruce",
+    "lastname": "Lee",
+    "email": "dragon1975@yahoo.org",
+    "password": "Bruce&99",
+    "role": "FE_LEAD"
+  }
+]
